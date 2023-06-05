@@ -1,0 +1,52 @@
+Dealer schedule for 3/10 during hours when losses occured:
+05:00:00 AM Billy Jones
+08:00:00 AM Billy Jones
+02:00:00 PM Billy Jones
+08:00:00 PM Billy Jones
+11:00:00 PM Billy Jones
+Dealer Schedule for 3/12 during the hours when losses occured:
+05:00:00 AM Billy Jones
+08:00:00 AM Billy Jones
+02:00:00 PM Billy Jones
+08:00:00 PM Billy Jones
+11:00:00 PM Billy Jones
+Dealer Schedule for 3/15 during the hours when losses occured:
+05:00:00 AM Billy Jones
+08:00:00 AM Billy Jones
+02:00:00 PM Billy Jones
+
+Billy Jones worked every day when losses occurred (in the exact hours of their occurrence). He worked 13 times in total.
+Players schedule of losses for 3/10:
+0310_win_loss_player_data:05:00:00 AM	-$82,348	Amirah Schneider,Nola Portillo, Mylie Schmidt,Suhayb Maguire,Millicent Betts,Avi Graves
+0310_win_loss_player_data:08:00:00 AM	-$97,383	Chanelle Tapia, Shelley Dodson , Valentino Smith, Mylie Schmidt
+0310_win_loss_player_data:02:00:00 PM	-$82,348	Jaden Clarkson, Kaidan Sheridan, Mylie Schmidt 
+0310_win_loss_player_data:08:00:00 PM	-$65,348        Mylie Schmidt, Trixie Velasquez, Jerome Klein ,Rahma Buckley
+0310_win_loss_player_data:11:00:00 PM	-$88,383	Mcfadden Wasim, Norman Cooper, Mylie Schmidt
+
+Players schedule of losses for 3/12:
+0312_win_loss_player_data:05:00:00 AM	-$182,300	Montana Kirk, Alysia Goodman, Halima Little, Etienne Brady, Mylie Schmidt
+0312_win_loss_player_data:08:00:00 AM	-$97,383        Rimsha Gardiner,Fern Cleveland, Mylie Schmidt,Kobe Higgins	
+0312_win_loss_player_data:02:00:00 PM	-$82,348        Mae Hail,  Mylie Schmidt,Ayden Beil	
+0312_win_loss_player_data:08:00:00 PM	-$65,792        Tallulah Rawlings,Josie Dawe, Mylie Schmidt,Hakim Stott, Esther Callaghan, Ciaron Villanueva	
+0312_win_loss_player_data:11:00:00 PM	-$88,229        Vlad Hatfield,Kerys Frazier,Mya Butler, Mylie Schmidt,Lex Oakley,Elin Wormald	
+
+Players schedule of losses for 3/10:
+0315_win_loss_player_data:05:00:00 AM	-$82,844        Arjan Guzman,Sommer Mann, Mylie Schmidt	
+0315_win_loss_player_data:08:00:00 AM	-$97,001        Lilianna Devlin,Brendan Lester, Mylie Schmidt,Blade Robertson,Derrick Schroeder	
+0315_win_loss_player_data:02:00:00 PM	-$182,419        Mylie Schmidt, Corey Huffman
+
+Losses occured 13 times.
+Losses ocured on 3/10 at:
+5am, 8am, 2pm, 8pm, 11pm
+
+Losses ocured on 3/12 at:
+5am, 8am, 2pm, 8pm, 11pm
+
+Losses ocured on 3/15 at:
+5am, 8am, 2pm, 11pm
+
+Mylie Schmidt is a player who played 13 times.  
+
+CONCLUSSION:
+Mylie Schmidt played every single time losses occurred while dealer Billy Jones worked on the roulette table. 
+Such strong evidence brings the conclusion that they both plotted against the casino.
